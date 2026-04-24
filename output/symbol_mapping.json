@@ -1,0 +1,27 @@
+{
+  "BTC-USD": {
+    "binance": "BTCUSDT",
+    "okx": "BTC-USDT-SWAP",
+    "bybit": "BTCUSDT"
+  },
+  "ETH-USD": {
+    "binance": "ETHUSDT",
+    "okx": "ETH-USDT-SWAP",
+    "bybit": "ETHUSDT"
+  },
+  "SOL-USD": {
+    "binance": "SOLUSDT",
+    "okx": "SOL-USDT-SWAP",
+    "bybit": "SOLUSDT"
+  },
+  "XRP-USD": {
+    "binance": "XRPUSDT",
+    "okx": "XRP-USDT-SWAP",
+    "bybit": "XRPUSDT"
+  },
+  "DOGE-USD": {
+    "binance": "DOGEUSDT",
+    "okx": "DOGE-USDT-SWAP",
+    "bybit": "DOGEUSDT"
+  }
+}

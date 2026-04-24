@@ -1,0 +1,53 @@
+[
+  {
+    "exchange": "binance",
+    "markets_requested": 5,
+    "markets_connected": 5,
+    "markets_with_valid_mids": 5,
+    "markets_failed": 0,
+    "seconds_tested": 121,
+    "expected_records": 605,
+    "observed_records": 598,
+    "missing_records": 7,
+    "stale_markets_count": 0,
+    "parse_errors_count": 0,
+    "reconnects_count": 0,
+    "latency_p50_ms": 71,
+    "latency_p95_ms": 73,
+    "updates_per_second_avg": 1160.595041322314
+  },
+  {
+    "exchange": "okx",
+    "markets_requested": 5,
+    "markets_connected": 0,
+    "markets_with_valid_mids": 0,
+    "markets_failed": 5,
+    "seconds_tested": 121,
+    "expected_records": 605,
+    "observed_records": 0,
+    "missing_records": 605,
+    "stale_markets_count": 0,
+    "parse_errors_count": 0,
+    "reconnects_count": 63,
+    "latency_p50_ms": null,
+    "latency_p95_ms": null,
+    "updates_per_second_avg": 0.0
+  },
+  {
+    "exchange": "bybit",
+    "markets_requested": 5,
+    "markets_connected": 5,
+    "markets_with_valid_mids": 5,
+    "markets_failed": 0,
+    "seconds_tested": 121,
+    "expected_records": 605,
+    "observed_records": 599,
+    "missing_records": 6,
+    "stale_markets_count": 0,
+    "parse_errors_count": 0,
+    "reconnects_count": 0,
+    "latency_p50_ms": 114,
+    "latency_p95_ms": 117,
+    "updates_per_second_avg": 77.86776859504133
+  }
+]
